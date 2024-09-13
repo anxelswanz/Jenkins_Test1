@@ -8,7 +8,7 @@ package com.example.service;
  **/
 public class AddService {
     public Result add(int a, int b) {
-        int sum = a + b;
+        int sum = a / 0;
         return new Result(sum);
     }
 }
