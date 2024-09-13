@@ -11,4 +11,8 @@ public class Result {
     public Result(int sum){
         this.sum = sum;
     }
+
+    public int getValue() {
+        return 0;
+    }
 }
